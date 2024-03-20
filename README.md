@@ -1,4 +1,8 @@
-# hellaswag
+# HellaSwag Hungarian Translation Project
+
+## Description
+This repository contains the Hungarian translation of the HellaSwag dataset, a collection of multiple-choice questions designed to assess grounded common sense inference. The translated dataset aims to facilitate research and development in natural language processing (NLP) tasks for the Hungarian language.
+
 HellaSwag: Can a Machine _Really_ Finish Your Sentence?
 
 This repo contains code and data for HellaSwag. If you like this paper, please cite us:
