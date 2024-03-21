@@ -5,6 +5,17 @@ This repository contains the Hungarian translation of the HellaSwag dataset, a c
 
 HellaSwag: Can a Machine _Really_ Finish Your Sentence?
 
+## Contributing Guidelines
+This project is a work in progress, and we rely on the contributions of individuals to improve the quality and coverage of the translated dataset. If you're fluent in both Hungarian and English, we welcome your assistance in reviewing and refining the translations. Here's how you can contribute:
+
+1. **Review Translations:** Check the accuracy and fluency of the translated dataset files. If you notice any errors or inconsistencies, please submit corrections.
+   
+2. **Add New Translations:** If you encounter untranslated or partially translated sections, you can contribute by providing translations for those segments.
+
+3. **Validate Translations:** Help validate the translations by testing the dataset in NLP tasks and providing feedback on its usability and effectiveness.
+
+4. **Provide Feedback:** Share your thoughts, suggestions, and ideas for improving the project. Your feedback is valuable in guiding the development and direction of the translation effort.
+
 This repo contains code and data for HellaSwag. If you like this paper, please cite us:
 
 ```
